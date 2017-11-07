@@ -37,17 +37,26 @@ body {
 #header h2 {
     text-align: center;
     margin: 15px;
-    position: relative;
-    
+    position: absolute;
+    z-index: 1;
+    padding: 361px 617px;
+    font-size: 45px;
+    color: #FFF;
     
 }
 
+/*
 #header img {
     width: 100%;
     position: relative;
 }
     
+*/
 
+#zdjecie {
+    width: 100%;
+    position: relative;
+}
 
 #about {
     text-align: center;
