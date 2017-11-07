@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+#menu {
+    text-align: center;
+    background: #000;
+
+}
+
+#menu ul {
+    margin: 0;
+}
+
+#menu .menu-item {
+    display: inline-block;
+    padding: 25px;
+    list-style: none;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#menu .menu-item a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#menu .menu-item a {
+    color: #999;
+}
+
+
+#header {
+    text-align: center;
+}
+
+#about > h2 {
+    text-align: center;
+    
+}
+
+.about2 {
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    padding: 7px 503px;
+}
